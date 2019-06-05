@@ -1,6 +1,6 @@
 # street_et_al_2019
 A colleciton of scripts used in the analysis of data for the manuscript:
 
-"An X-specific condensin binds to gene regulatory elements and reduces histone modifications associated with active transcription in C. elegans"
+"Binding of an X-specific condensin correlates with a reduction in active histone modifications at gene regulatory elements"
 
-Lena Annika Street, Lara Heermans Winterkorn, Chen-Yu Jiao, Sarah Elizabeth Albritton, Mohammed Sadic, Maxwell Kramer, Sevinç Ercan
+Lena Annika Street, Ana Karina Morao, Lara Heermans Winterkorn, Chen-Yu Jiao, Sarah Elizabeth Albritton, Mohammed Sadic, Maxwell Kramer, Sevinç Ercan
